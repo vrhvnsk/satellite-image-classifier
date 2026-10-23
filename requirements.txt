@@ -1,0 +1,12 @@
+# Web app
+torch
+torchvision
+shiny
+pandas
+numpy
+pillow
+
+# Training notebook
+scikit-learn
+matplotlib
+jupyter
