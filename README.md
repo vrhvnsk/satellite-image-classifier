@@ -4,8 +4,8 @@ A small convolutional neural network (a compact ResNet) that classifies satellit
 
 Built as a university project for **Programming for AI II** at Johannes Kepler University Linz (JKU).
 
-![Demo screenshot](docs/screenshot.png)
-<!-- TODO: add a screenshot of the web app at docs/screenshot.png -->
+<img width="947" height="443" alt="example" src="https://github.com/user-attachments/assets/14bfe102-6b28-4eb2-98da-5ad6b7a9d770" />
+
 
 ## Results
 
